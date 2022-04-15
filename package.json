@@ -37,5 +37,17 @@
     "**/{aura,lwc}/**": [
       "eslint"
     ]
-  }
+  },
+  "main": "jest.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsandeep3850/HelloJestTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lsandeep3850/HelloJestTest/issues"
+  },
+  "homepage": "https://github.com/lsandeep3850/HelloJestTest#readme"
 }
