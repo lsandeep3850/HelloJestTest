@@ -45,7 +45,7 @@ describe('testing apex imperative method',()=>{
 
         return new Promise(setImmediate).then(()=>{
             const details=element.shadowRoot.querySelectorAll('.error')
-            expect(details.length).not.toBeNull
+            expect(details).not.toBeNull
             
         })
 
